@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   link: {
     color: 'white',
-    marginHorizontal: 5,
+    marginHorizontal: 3,
   },
   contact: {
     color: 'white',
